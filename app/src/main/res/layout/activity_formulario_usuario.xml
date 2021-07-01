@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.FormularioUsuarioActivity">
+
+    <EditText
+        android:id="@+id/edit_add_usuario_usuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:ems="10"
+        android:inputType="textCapWords"
+        android:hint="Digite o usuario"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/edit_add_usuario_senha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:ems="10"
+        android:hint="Digite sua nova senha"
+        android:autofillHints=""
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/edit_add_usuario_repita_senha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:ems="10"
+        android:hint="Repita sua nova senha"
+        android:autofillHints=""
+        android:inputType="textPassword" />
+
+</LinearLayout>

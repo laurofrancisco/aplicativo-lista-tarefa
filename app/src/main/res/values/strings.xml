@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="texto_lista_de_tarefas">Lista de Tarefas</string>
+    <string name="texto_logotipo_do_app">Logotipo do App</string>
+    <string name="texto_formulario_de_login">Formulário de Login</string>
+    <string name="hint_digite_seu_usuario">Digite seu usuário</string>
+    <string name="hint_digite_sua_senha">Digite sua senha</string>
+    <string name="texto_botao_entrar">Entrar</string>
+    <string name="texto_botao_criar_usuario">Criar Usuário</string>
+</resources>

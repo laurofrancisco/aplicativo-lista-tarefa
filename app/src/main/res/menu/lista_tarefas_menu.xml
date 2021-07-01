@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Remover"
+        android:id="@+id/lista_tarefas_menu_remover"/>
+
+    <item android:title="Ajuda"
+        android:id="@+id/lista_tarefas_menu_ajuda"/>
+
+</menu>
